@@ -10,7 +10,7 @@ On three different dataset's
 2) jedit1
 3) poi
 
-And performance of data_set's over kernels is displayed as
+And performance of data_set's over kernels is displayed as in
 1)classification_report 
 2)confusion_matrix
 3)g_mean
