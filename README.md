@@ -6,7 +6,7 @@ Implementation of different kernels
 4) RBF
 
 On three different dataset's
-1) Kc_1
+1) Kc_1 data
 2) jedit1
 3) poi
 
